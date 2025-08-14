@@ -15,6 +15,7 @@ This project analyzes housing data, explores patterns and correlations, and buil
 ```
 House Price Analysis and Prediction.ipynb  # Main Jupyter Notebook
 README.md                                  # Project documentation
+data/zameen.csv                            # Dataset used
 ```
 
 ## ⚙️ Requirements
